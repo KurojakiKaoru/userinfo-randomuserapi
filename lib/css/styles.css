@@ -26,3 +26,7 @@ p {
     flex-wrap: wrap;
     align-items: center;
 }
+
+hr {
+    margin: 10%;
+}
